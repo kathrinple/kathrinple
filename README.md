@@ -40,11 +40,6 @@ I'm Kathrin Pleuger!</div>
 
 
 
-### DevOps  
-<div align="center">  
-  
-</div>
-
 </td></tr></table>  
 
 <br/>  
