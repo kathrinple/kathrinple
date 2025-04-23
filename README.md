@@ -1,92 +1,49 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">Hey! 👋
-I'm Kathrin Pleuger!</div>  
-  
-
-- Currently: BS Medical Informatics Student at Fachhochschule Dortmund in Germany.  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a> 
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-   
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/kathrinple/count.svg" alt="Visitor's Count" />
 </div>
 
-</td><td valign="top" width="33%">
+<img src="Profile.png" alt="Banner of a developer sitting in front of a desk">
 
+<h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=48&duration=4000&pause=1000&color=4493F8&center=true&vCenter=true&width=500&height=70&lines=Hey+There!%F0%9F%91%8B;I'm+Kathrin" alt="Typing SVG" /></a>
+</h1>
 
+### A working student at Adesso SE
 
-### Backend  
-<div align="center">  
-  <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-  <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
-  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-</div>
+- 🌱 I’m currently studying Medical Informatics at Fachhochschule Dortmund
 
-</td><td valign="top" width="33%">
-
-### DevOps  
-<div align="center">  
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/kathrinple" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kathrinple&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
-
-<br/>  
+<br>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=kathrinple&&style=flat-square" align="center" />
-</div>  
-  
+  <a href="[https://linkedin.com/in/kathrinple](https://www.linkedin.com/in/kathrin-pleuger-506a39232/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-<br/>  
+<hr>
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,maven" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,angular,git,postman,docker,npm" />
+</p>
+
+<hr>
+
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=kathrinple&theme=radical&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="kathrinple's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=kathrinple&theme=radical&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=kathrinple&theme=radical&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="kathrinple's Most Used Languages" />
+</div>
+
+<hr>
 
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
